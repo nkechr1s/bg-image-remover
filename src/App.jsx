@@ -209,14 +209,7 @@ export default function App() {
           Background Image Remover
         </h1>
         <h2 className="text-lg font-semibold mb-2 text-center">
-          In-browser background removal, by{" "}
-          <a
-            className="underline"
-            target="_blank"
-            href="https://github.com/xenova/transformers.js"
-          >
-            Transformers.js
-          </a>
+          In-browser background removal
         </h2>
         <div
           {...getRootProps()}
